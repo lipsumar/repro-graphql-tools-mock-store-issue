@@ -1,0 +1,14 @@
+{
+  "name": "repro-graphql-tools-mock-store-issue",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@graphql-tools/mock": "^8.5.1",
+    "@graphql-tools/schema": "^8.3.1",
+    "graphql": "^16.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.7.0"
+  }
+}
